@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://MedSghaier.github.io/instagram-clone",
+    "homepage": "https://medsghaier.github.io/instagram-clone/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
